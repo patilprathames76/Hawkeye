@@ -9,3 +9,10 @@ body{
 .face{
     padding: 20px 20px;
 }
+.login-body{
+
+    background-image: url(C:/Users/Karan/Documents/GitHub/Hawkeye/WEBDEV/src/images/cold-europe-iceland-2635616.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: ;
+}
